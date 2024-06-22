@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/cyberbite-project-1--weathervue/static/css/main.d976514d.css",
+    "main.js": "/cyberbite-project-1--weathervue/static/js/main.2fb11e05.js",
+    "static/js/453.a3bc167a.chunk.js": "/cyberbite-project-1--weathervue/static/js/453.a3bc167a.chunk.js",
+    "static/media/pexels-souvenirpixels-1605325.jpg": "/cyberbite-project-1--weathervue/static/media/pexels-souvenirpixels-1605325.3d4d3a77b404be3e40db.jpg",
+    "index.html": "/cyberbite-project-1--weathervue/index.html",
+    "main.d976514d.css.map": "/cyberbite-project-1--weathervue/static/css/main.d976514d.css.map",
+    "main.2fb11e05.js.map": "/cyberbite-project-1--weathervue/static/js/main.2fb11e05.js.map",
+    "453.a3bc167a.chunk.js.map": "/cyberbite-project-1--weathervue/static/js/453.a3bc167a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d976514d.css",
+    "static/js/main.2fb11e05.js"
+  ]
+}
