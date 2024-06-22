@@ -33,7 +33,10 @@ const Weathervue = () => {
   };
 
   return (
+    <>   
+    
     <div>
+
       
     <div className="weather-container">
       
@@ -54,6 +57,8 @@ const Weathervue = () => {
       </div>
     </div>
     </div>
+    </>
+
   );
 };
 
